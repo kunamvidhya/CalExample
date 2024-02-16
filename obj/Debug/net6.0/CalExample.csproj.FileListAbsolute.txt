@@ -1,0 +1,14 @@
+D:\mphasis\Feb-16\CalExample\CalExample\bin\Debug\net6.0\CalExample.exe
+D:\mphasis\Feb-16\CalExample\CalExample\bin\Debug\net6.0\CalExample.deps.json
+D:\mphasis\Feb-16\CalExample\CalExample\bin\Debug\net6.0\CalExample.runtimeconfig.json
+D:\mphasis\Feb-16\CalExample\CalExample\bin\Debug\net6.0\CalExample.dll
+D:\mphasis\Feb-16\CalExample\CalExample\bin\Debug\net6.0\CalExample.pdb
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.AssemblyInfoInputs.cache
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.AssemblyInfo.cs
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.csproj.CoreCompileInputs.cache
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.dll
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\refint\CalExample.dll
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.pdb
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\CalExample.genruntimeconfig.cache
+D:\mphasis\Feb-16\CalExample\CalExample\obj\Debug\net6.0\ref\CalExample.dll
